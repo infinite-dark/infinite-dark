@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mikołaj.
 - 👀 I’m interested in space, robots and sci-fi.
 - 🌱 I’m currently learning Android.
-- 😄 Pronouns: I don't subscribe to such absurdities.
-- ⚡ Fun fact: I graduated in physics, not comp-sci.
+- ⚡ Fun fact: I graduated physics, not comp-sci.
