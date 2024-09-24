@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mikołaj.
 - 👀 I’m interested in space, robots and sci-fi.
-- 🌱 I’m currently learning Android.
-- ⚡ Fun fact: I graduated physics, not comp-sci.
+- 🌱 I’m currently learning low-level stuff.
+- ⚡ Fun fact: I'm an engineering physics graduate.
