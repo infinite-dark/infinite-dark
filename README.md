@@ -2,3 +2,4 @@
 - 👀 I’m interested in space, robots and sci-fi.
 - 🌱 I’m currently learning C++.
 - ⚡ Fun fact: I want to start writing sci-fi in my free time soon.
+- ⚡ Fun fact 2: My GitHub seems empty because I prefer local storage. lol
