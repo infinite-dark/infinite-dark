@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mikołaj.
-- 👀 I’m interested in space, robots and sci-fi.
-- 🌱 I’m currently learning C++.
-- ⚡ Fun fact: I want to start writing sci-fi in my free time soon.
-- ⚡ Fun fact 2: My GitHub seems empty because I prefer local storage. lol
+Hi. I am Mikołaj. And I refuse to keep being dehumanized, mocked and belittled by cold-blooded, insane employers from now on. I'm quitting trying to find a job. If yers of my effort, stress, sleepless nights, anxiety and depression mean nothing in this system then I have no intention or incentive to to keep going. Goodbye.
